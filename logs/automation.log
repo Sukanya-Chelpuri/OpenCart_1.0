@@ -498,3 +498,15 @@
 23:10:47.939 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
 23:10:56.663 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
 23:10:56.678 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:120)oggger - ************************ After class**********************
+12:27:27.821 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+12:27:27.828 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+12:31:56.193 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
+
+12:31:56.992 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+12:31:56.994 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:98)oggger - ***************** inside local driver **********************
+12:32:03.521 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:112)oggger - ***************** url loaded  **********************
+12:32:06.051 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:114)oggger - ***************** maximized window **********************
+12:32:06.081 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+12:32:08.233 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+12:32:08.251 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:120)oggger - ************************ After class**********************
