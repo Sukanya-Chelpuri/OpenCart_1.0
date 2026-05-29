@@ -29,7 +29,7 @@ public class ExtentReportManager implements ITestListener {
 
 	public void onStart(ITestContext testContext)
 	{
-		String timeStamp = new SimpleDateFormat("yyyy . MM. dd. HH. mm. ss") . format(new Date()); //time stamp
+		String timeStamp = new SimpleDateFormat("yyyy . MM. dd. HH. mm. ss").format(new Date()); //time stamp
 
 		repName = "Test-Report-" + timeStamp + ".html";
 		sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName ) ; //specify the location of the report

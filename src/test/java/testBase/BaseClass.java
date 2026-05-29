@@ -55,22 +55,30 @@ public class BaseClass {
 
 			DesiredCapabilities capbilities = new DesiredCapabilities();
 
-			if(os.equalsIgnoreCase("windows"))
+			//			if(os.equalsIgnoreCase("windows"))
+			//			{
+			//				capbilities.setPlatform(Platform.WIN11);
+			//			}
+			//			else if(os.equalsIgnoreCase("Mac")) 
+			//			{
+			//				capbilities.setPlatform(Platform.MAC);
+			//			}
+			//			else if(os.equalsIgnoreCase("Linux")) 
+			//			{
+			//				capbilities.setPlatform(Platform.LINUX);
+			//			}
+			//			else
+			//			{
+			//				logger.info("No Matching Operating System");
+			//				return;
+			//			}
+
+			switch(os.toLowerCase())
 			{
-				capbilities.setPlatform(Platform.WIN11);
-			}
-			else if(os.equalsIgnoreCase("Mac")) 
-			{
-				capbilities.setPlatform(Platform.MAC);
-			}
-			else if(os.equalsIgnoreCase("Linux")) 
-			{
-				capbilities.setPlatform(Platform.LINUX);
-			}
-			else
-			{
-				logger.info("No Matching Operating System");
-				return;
+			case "windows" : capbilities.setPlatform(Platform.WIN11); break;
+			case "mac" : capbilities.setPlatform(Platform.MAC); break;
+			case "linux" : capbilities.setPlatform(Platform.LINUX); break;
+			default: logger.info("No Matching Operating System");return;
 			}
 
 			switch(br.toLowerCase())

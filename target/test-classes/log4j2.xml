@@ -26,7 +26,7 @@
   <Loggers>
     <!-- Root logger references the console and rolling appenders -->
     <Root level="Info"><!-- All/Trace/Debug/Warn/Error/Fatal/Off-->
-      <!-- <AppenderRef ref="Console"/> -->
+      <AppenderRef ref="Console"/>
      <AppenderRef ref="File"/>
       
     </Root>

@@ -35,7 +35,7 @@ public class TC002_LoginTest extends BaseClass{
 			
 		}
 		catch (Exception e) {
-			logger.info("TC002_LoginTest case failed");
+			logger.info("TC002_LoginTest case failed"); 	
 		}
 		
 		logger.info("***************** Finished TC002_LoginTest ***************");

@@ -1,270 +1,500 @@
-14:14:34.190 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-docker.xml
+15:01:26.013 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
 
-14:14:34.515 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:14:34.515 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:14:44.139 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:14:46.035 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:14:46.109 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:14:46.746 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:14:48.401 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:14:48.407 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:14:51.720 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-14:14:51.771 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:14:53.406 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:14:53.408 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:14:58.826 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:14:59.171 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:15:05.938 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
-14:15:07.946 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
-14:15:19.478 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
-14:15:19.481 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:18:49.476 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-docker.xml
+15:01:26.947 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:01:27.389 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:03:17.339 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
 
-14:18:49.839 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:18:49.840 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:18:55.638 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:18:55.966 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:18:56.003 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:18:56.225 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:18:56.828 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:18:56.835 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:18:59.281 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-14:18:59.363 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:19:02.057 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:19:02.059 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:19:08.935 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:19:09.290 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:19:09.295 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-14:19:11.450 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-14:19:11.456 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:19:16.458 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:19:16.460 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:19:22.168 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:19:22.374 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:19:22.381 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:19:22.856 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:19:23.808 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:19:23.810 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:19:26.732 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-14:19:26.737 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:19:26.837 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:19:26.838 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:19:29.151 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:19:29.341 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:19:29.346 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-14:19:31.872 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-14:19:31.878 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:20:37.287 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-docker.xml
+15:03:17.969 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:03:17.971 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+15:03:19.559 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:03:19.561 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+15:04:45.879 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
 
-14:20:37.621 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:20:37.621 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:20:37.623 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:20:37.623 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:20:40.738 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:20:40.776 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:20:40.823 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:20:41.086 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:20:42.115 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:20:42.119 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:20:43.352 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:20:53.421 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:53)oggger - Unable to locate element: //input[@id='input-firstname']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.38.0', revision: '6b412e825c*'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [6322670f-5625-48b8-9bf9-1abf094c5110, findElement {using=xpath, value=//input[@id='input-firstname']}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 144.0.2, container:hostname: 6a7f971590b6, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 6.6.87.2-microsoft-standard..., moz:processID: 1750, moz:profile: /tmp/rust_mozprofile6Asn1X, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: 6a7f971590b6, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: 6322670f-5625-48b8-9bf9-1abf094c5110
-14:20:53.662 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:20:53.665 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:20:53.992 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:20:54.093 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:20:55.126 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:20:55.129 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:20:56.687 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:53)oggger - Tried to run command without establishing a connection
-Build info: version: '4.38.0', revision: '6b412e825c*'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [6322670f-5625-48b8-9bf9-1abf094c5110, findElement {using=xpath, value=//input[@id='input-firstname']}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 144.0.2, container:hostname: 6a7f971590b6, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 6.6.87.2-microsoft-standard..., moz:processID: 1750, moz:profile: /tmp/rust_mozprofile6Asn1X, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: 6a7f971590b6, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: 6322670f-5625-48b8-9bf9-1abf094c5110
-14:20:56.693 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:20:56.693 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:20:56.716 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:30:31.902 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grouping.xml
+15:04:46.203 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:04:46.204 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:04:53.122 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:04:53.747 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:04:53.786 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:04:53.977 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:04:54.705 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:04:54.708 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:04:57.323 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:04:57.366 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:04:57.746 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:04:57.747 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:05:01.422 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:05:01.650 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:05:09.801 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:05:12.373 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:05:25.106 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:05:25.112 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:06:59.200 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
 
-14:30:32.784 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:30:32.784 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:31:27.670 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grouping.xml
-
-14:31:28.488 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:31:28.488 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:31:39.370 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:31:39.879 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:31:40.056 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-14:31:43.632 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-14:31:43.684 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:31:44.066 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:31:44.069 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:31:48.193 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:31:48.482 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:31:48.489 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:31:48.970 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:31:49.964 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:31:49.980 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:31:53.324 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-14:31:53.330 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:31:53.488 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:31:53.492 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:31:56.863 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:31:57.141 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:32:04.601 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
-14:32:46.507 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:34:31.875 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grouping.xml
-
-14:34:32.787 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:34:32.790 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:34:41.322 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:34:41.629 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:34:41.789 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-14:34:51.271 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-14:34:51.552 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:34:52.093 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:43)oggger - ***************** inside before class **********************
-14:34:52.095 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:53)oggger - ***************** inside remote driver **********************
-14:34:57.364 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:102)oggger - ***************** url loaded  **********************
-14:34:57.697 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** maximized window **********************
-14:34:57.705 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:34:58.344 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:34:59.993 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:35:00.015 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:35:05.384 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-14:35:05.451 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:110)oggger - ************************ After class**********************
-14:12:20.750 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+15:06:59.503 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:06:59.504 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:07:01.667 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:07:02.859 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:07:02.998 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:07:03.918 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:07:05.582 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:07:05.597 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:07:09.219 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:07:09.246 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:07:09.875 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:07:09.876 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:07:13.817 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:07:15.176 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:07:23.756 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:07:28.497 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:07:42.215 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:07:42.227 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:13:03.189 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
   C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\parallel2.xml
 
-14:12:21.213 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-14:12:21.213 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-14:12:21.213 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-14:12:21.214 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-14:12:21.214 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-14:12:21.214 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-14:12:28.274 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-14:12:28.309 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-14:12:29.275 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-14:12:29.478 [TestNG-tests-3] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-14:12:29.641 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-14:12:29.648 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-14:12:31.017 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-14:12:31.077 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-14:12:31.084 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:12:31.320 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:12:32.608 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:12:32.623 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:12:35.322 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-14:12:35.877 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-14:12:37.948 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-14:12:37.948 [TestNG-tests-3] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-14:12:37.954 [TestNG-tests-3] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-14:12:37.958 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-14:13:06.499 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+15:13:03.503 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:13:03.503 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:13:03.505 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:13:03.505 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:13:03.686 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:13:03.687 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:13:15.288 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:13:15.716 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:13:16.664 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:13:17.101 [TestNG-tests-3] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+15:13:20.447 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:13:20.516 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:13:23.039 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:13:23.078 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:13:25.289 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:13:28.560 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:13:28.565 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:13:30.749 [TestNG-tests-3] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+15:13:30.824 [TestNG-tests-3] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:13:34.805 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:13:35.155 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:13:35.168 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:13:44.347 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:13:59.919 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+15:13:59.924 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:15:36.413 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\crossBrowserTesting.xml
+
+15:15:36.724 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:15:36.724 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:15:39.693 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:15:39.736 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:15:39.790 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:15:39.966 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:15:40.671 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:15:40.679 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:15:43.600 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:15:43.648 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:15:45.933 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:15:45.935 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:15:53.421 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:15:54.677 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:15:54.691 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:15:56.200 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:15:58.218 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:15:58.223 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:16:03.068 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:16:03.072 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:16:04.222 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:16:04.223 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:17:17.980 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:17:19.754 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:17:19.790 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:17:20.368 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:17:22.279 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:17:22.281 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:17:28.608 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:17:28.630 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:19:29.046 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
   C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\parallel2.xml
 
-14:13:06.683 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-14:13:06.684 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-14:13:06.827 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-14:13:06.827 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-14:13:06.828 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-14:13:06.828 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-14:13:10.015 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-14:13:10.183 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-14:13:10.563 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-14:13:10.818 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-14:13:10.836 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-14:13:10.978 [TestNG-tests-3] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-14:13:10.995 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-14:13:11.033 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-14:13:11.804 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-14:13:13.074 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-14:13:13.128 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-14:13:16.486 [TestNG-tests-3] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-14:13:16.772 [TestNG-tests-3] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-14:13:21.818 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-14:13:21.827 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-14:13:25.849 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
-14:13:31.851 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
-14:13:44.946 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
-14:13:44.954 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-11:08:55.507 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-11:08:55.511 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-11:09:00.653 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-11:09:00.750 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-11:09:00.792 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-11:09:01.104 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-11:09:01.602 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-11:09:01.642 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-11:09:03.541 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-11:09:03.569 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-11:09:03.933 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-11:09:03.934 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-11:09:06.045 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-11:09:06.090 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-11:09:06.093 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-11:09:08.007 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-11:09:08.007 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-11:48:14.906 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-11:48:14.915 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-11:48:19.818 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-11:48:19.904 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-11:48:20.019 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-11:48:20.537 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-11:48:21.292 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-11:48:21.299 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-11:48:23.737 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-11:48:23.781 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-11:48:24.204 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-11:48:24.205 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-11:48:26.910 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-11:48:26.986 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-11:48:26.994 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-11:48:29.456 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-11:48:29.462 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-12:06:43.076 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-12:06:43.080 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-12:06:45.991 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-12:06:46.904 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-12:06:47.090 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-12:06:47.946 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-12:06:48.795 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-12:06:48.825 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-12:06:51.779 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-12:06:51.822 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-12:06:52.807 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-12:06:52.808 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-12:06:55.328 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-12:06:56.173 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-12:06:56.180 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-12:06:59.437 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-12:06:59.443 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-12:21:47.510 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-12:21:47.514 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-12:21:52.884 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-12:21:53.937 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-12:21:54.070 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
-12:21:54.898 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
-12:21:55.694 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
-12:21:55.702 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
-12:21:58.155 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
-12:21:58.200 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
-12:21:58.774 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
-12:21:58.775 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
-12:22:01.720 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
-12:22:01.822 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
-12:22:01.829 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
-12:22:04.791 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
-12:22:04.797 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:19:29.410 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:19:29.410 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:19:29.411 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:19:29.411 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:19:29.593 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+15:19:29.594 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+15:19:39.620 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:19:39.931 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:19:42.381 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+15:19:43.043 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:19:43.460 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:19:43.996 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+15:19:44.208 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:19:44.235 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:19:44.292 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+15:19:45.663 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:19:46.217 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:19:46.616 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+15:19:48.049 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:19:48.069 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:19:50.282 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:19:50.297 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:19:50.509 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+15:19:50.534 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+15:20:11.396 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:20:11.498 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:20:11.820 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:20:11.828 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+15:20:11.829 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+15:20:11.836 [TestNG-tests-3] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+12:22:56.622 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:22:56.646 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+12:22:56.652 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.653 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.655 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.656 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.658 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.659 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.675 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+12:22:56.715 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 38 ms.
+12:22:56.719 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:22:56.722 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.726 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.727 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.729 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.730 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.737 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.738 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.740 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.742 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.752 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.753 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.755 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.756 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.760 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.762 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:22:56.767 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.768 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.769 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:22:56.770 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:22:56.800 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\AppData\Local\Temp\testng-eclipse-53084196\testng-customsuite.xml
+
+12:22:56.859 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+12:22:57.849 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@549621f3: 506 ms
+12:22:57.887 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@192f2f27: 37 ms
+12:22:57.928 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@7bb3a9fe: 41 ms
+12:22:57.957 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4cc76301: 26 ms
+12:22:57.975 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7ef2d7a6: 16 ms
+12:22:57.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5dcbb60: 0 ms
+12:30:46.525 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:30:46.543 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+12:30:46.547 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.547 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.550 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.550 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.552 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.552 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.560 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+12:30:46.584 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+12:30:46.587 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.587 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.589 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.589 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.590 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.590 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.594 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.594 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.596 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.597 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.604 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.606 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.607 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.607 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.609 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:30:46.611 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.613 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.613 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.614 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:46.615 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:46.628 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\AppData\Local\Temp\testng-eclipse-1679925139\testng-customsuite.xml
+
+12:30:46.655 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+12:30:46.940 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@6fa590ba: 115 ms
+12:30:46.969 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e46d9f4: 25 ms
+12:30:47.056 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@b91d8c4: 84 ms
+12:30:47.227 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5dcbb60: 141 ms
+12:30:47.308 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@66ea1466: 71 ms
+12:30:47.310 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1601e47: 0 ms
+12:30:55.113 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+12:30:55.147 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+12:30:55.154 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.155 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.158 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.159 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.162 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.163 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.183 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+12:30:55.229 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 44 ms.
+12:30:55.235 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.236 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:30:55.239 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.240 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.242 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.243 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.251 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.252 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.254 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.255 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.267 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.269 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.271 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.272 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.275 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.278 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.282 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.283 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.285 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:30:55.286 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:30:55.311 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\AppData\Local\Temp\testng-eclipse-1568363282\testng-customsuite.xml
+
+12:30:55.363 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+12:30:55.996 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@6fa590ba: 310 ms
+12:30:56.053 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e46d9f4: 52 ms
+12:30:56.104 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@b91d8c4: 50 ms
+12:30:56.138 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5dcbb60: 33 ms
+12:30:56.232 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@66ea1466: 77 ms
+12:30:56.245 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1601e47: 0 ms
+12:52:55.077 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\loginDDT.xml
+
+12:52:55.349 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+12:52:55.352 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+12:53:14.484 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+12:53:14.737 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+12:53:30.101 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+12:53:36.854 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+12:53:50.686 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+12:53:50.700 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+12:56:10.530 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\loginDDT.xml
+
+12:56:11.526 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+12:56:11.528 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+12:56:18.185 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+12:56:18.345 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+12:56:29.470 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+12:56:35.119 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+12:56:48.177 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+12:56:48.184 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+17:26:51.985 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+17:26:51.993 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+17:27:00.592 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+17:27:02.124 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+17:27:02.381 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+17:27:03.167 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+17:27:04.578 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+17:27:04.599 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+17:27:09.073 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+17:27:09.201 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+17:27:09.949 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+17:27:09.951 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+17:27:14.069 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+17:27:14.277 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+17:27:22.720 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+17:27:25.720 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+17:27:38.862 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+17:27:38.869 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+17:46:44.132 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
+
+17:46:44.549 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:45)oggger - ***************** inside before class **********************
+17:46:44.550 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:91)oggger - ***************** inside local driver **********************
+17:46:58.335 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:108)oggger - ***************** url loaded  **********************
+17:46:58.421 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:110)oggger - ***************** maximized window **********************
+17:46:58.494 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+17:47:02.534 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+17:47:02.616 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:116)oggger - ************************ After class**********************
+17:47:22.242 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
+
+17:47:22.673 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:45)oggger - ***************** inside before class **********************
+17:47:22.674 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:91)oggger - ***************** inside local driver **********************
+17:47:30.609 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:108)oggger - ***************** url loaded  **********************
+17:47:30.697 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:110)oggger - ***************** maximized window **********************
+17:47:30.767 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+17:47:34.297 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+17:47:34.365 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:116)oggger - ************************ After class**********************
+21:07:37.793 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\master.xml
+
+21:07:38.135 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+21:07:38.136 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+21:07:52.015 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+21:07:52.101 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+21:07:52.161 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+21:08:02.982 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+21:11:28.275 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\test-output\testng-failed.xml
+
+21:11:56.710 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\test-output\testng-failed.xml
+
+22:36:17.589 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-selenium.xml
+
+22:36:18.866 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:36:18.866 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:36:18.869 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+22:36:18.870 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+22:36:40.510 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:36:40.604 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:36:40.790 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+22:36:41.426 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+22:36:50.204 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+22:36:50.233 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+22:36:54.330 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+22:36:54.427 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:36:55.282 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:36:55.284 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+22:37:00.137 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:37:00.831 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:37:00.845 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+22:37:06.647 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+22:37:06.654 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:37:07.624 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:37:07.625 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:90)oggger - ***************** inside local driver **********************
+22:37:10.953 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:37:11.084 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:37:22.640 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+22:37:29.590 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+22:37:44.561 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+22:37:44.577 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:39:02.451 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:39:05.404 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:39:05.454 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+22:39:05.961 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+22:39:09.438 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+22:39:09.440 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+22:39:15.775 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+22:39:15.795 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:39:21.115 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:39:21.118 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:39:25.682 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-selenium.xml
+
+22:39:27.097 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:39:27.097 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:39:27.101 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:39:27.102 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:39:42.953 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:39:52.360 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:39:52.606 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+22:39:55.466 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+22:40:02.069 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+22:40:02.133 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+22:40:15.674 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+22:40:16.204 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:40:27.511 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:40:29.636 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:40:29.737 [TestNG-tests-1] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+22:40:34.799 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:40:37.044 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:40:37.054 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+22:40:37.875 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+22:40:40.035 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+22:40:40.041 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+22:40:40.248 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:40:40.253 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:40:46.009 [TestNG-tests-1] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+22:40:46.163 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:40:56.087 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:40:56.447 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+22:40:56.528 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:40:56.878 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:40:56.916 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+22:41:05.031 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:41:05.037 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:41:06.006 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+22:41:06.015 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:41:07.744 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:41:07.747 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:41:12.713 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:41:14.373 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:41:37.349 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+22:41:52.292 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+22:41:57.119 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:41:57.167 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:41:57.198 [TestNG-tests-1] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
+22:42:03.972 [TestNG-tests-1] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
+22:42:03.997 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:42:08.822 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:62)oggger - ******************** End of TC003_LoginDDT ***************************
+22:42:08.840 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+22:43:34.279 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-selenium.xml
+
+22:43:35.391 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:43:35.391 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:43:35.391 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+22:43:35.395 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:43:35.395 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:43:35.395 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+22:43:59.733 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:104)oggger - ***************** url loaded  **********************
+22:43:59.808 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:106)oggger - ***************** maximized window **********************
+22:43:59.952 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+22:44:00.738 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+22:44:01.963 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+22:44:02.008 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+22:44:05.333 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+22:44:05.478 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:112)oggger - ************************ After class**********************
+23:00:29.296 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-selenium.xml
+
+23:00:29.871 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+23:00:29.874 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+23:00:30.657 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+23:00:30.658 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+23:00:30.660 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+23:00:30.661 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+23:01:06.151 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:112)oggger - ***************** url loaded  **********************
+23:01:06.230 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:114)oggger - ***************** maximized window **********************
+23:01:06.312 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+23:01:06.763 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+23:01:08.174 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+23:01:08.186 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+23:01:14.419 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+23:01:14.513 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:120)oggger - ************************ After class**********************
+23:09:06.624 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\sukan\eclipse-MySeleniumProject\OpenCart_1.0\grid-selenium.xml
+
+23:09:07.894 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+23:09:07.894 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+23:09:07.894 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+23:09:07.898 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+23:09:07.898 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+23:09:07.898 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************
+23:09:37.330 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:112)oggger - ***************** url loaded  **********************
+23:09:39.050 [TestNG-tests-3] INFO  testBase.BaseClass.setUp(BaseClass.java:114)oggger - ***************** maximized window **********************
+23:09:39.344 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+23:09:42.306 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+23:09:46.620 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:112)oggger - ***************** url loaded  **********************
+23:09:47.453 [TestNG-tests-2] INFO  testBase.BaseClass.setUp(BaseClass.java:114)oggger - ***************** maximized window **********************
+23:09:47.484 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+23:09:48.758 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+23:09:48.874 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+23:09:51.900 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+23:09:55.685 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+23:09:55.694 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+23:10:10.267 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+23:10:10.318 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+23:10:10.432 [TestNG-tests-2] INFO  testBase.BaseClass.tearDown(BaseClass.java:120)oggger - ************************ After class**********************
+23:10:10.432 [TestNG-tests-3] INFO  testBase.BaseClass.tearDown(BaseClass.java:120)oggger - ************************ After class**********************
+23:10:42.502 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:112)oggger - ***************** url loaded  **********************
+23:10:42.634 [TestNG-tests-1] INFO  testBase.BaseClass.setUp(BaseClass.java:114)oggger - ***************** maximized window **********************
+23:10:42.651 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ************* Strating Test case *************
+23:10:44.574 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - ************* Clicked on My account link *************
+23:10:47.919 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - ************* Clicked on My register link *************
+23:10:47.939 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:36)oggger - ************* Providing customer data *************
+23:10:56.663 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ************* Ending of Test case *************
+23:10:56.678 [TestNG-tests-1] INFO  testBase.BaseClass.tearDown(BaseClass.java:120)oggger - ************************ After class**********************
