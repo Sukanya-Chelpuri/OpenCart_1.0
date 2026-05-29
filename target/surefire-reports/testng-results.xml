@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-29T12:27:27 IST" name="Master Suite" finished-at="2026-05-29T12:27:28 IST" duration-ms="1114">
+  <suite started-at="2026-05-29T13:07:47 IST" name="Master Suite" finished-at="2026-05-29T13:07:48 IST" duration-ms="1650">
     <groups>
       <group name="Master">
         <method signature="TC002_LoginTest.verify_Login()[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" name="verify_Login" class="testCases.TC002_LoginTest"/>
@@ -11,9 +11,9 @@
         <method signature="TC002_LoginTest.verify_Login()[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" name="verify_Login" class="testCases.TC002_LoginTest"/>
       </group> <!-- Sanity -->
     </groups>
-    <test started-at="2026-05-29T12:27:27 IST" name="Test" finished-at="2026-05-29T12:27:28 IST" duration-ms="1114">
+    <test started-at="2026-05-29T13:07:47 IST" name="Test" finished-at="2026-05-29T13:07:48 IST" duration-ms="1650">
       <class name="testCases.TC002_LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" started-at="2026-05-29T12:27:27 IST" name="setUp" finished-at="2026-05-29T12:27:28 IST" duration-ms="750" status="FAIL">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" started-at="2026-05-29T13:07:47 IST" name="setUp" finished-at="2026-05-29T13:07:48 IST" duration-ms="1216" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -116,7 +116,7 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Login()[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" started-at="2026-05-29T12:27:28 IST" name="verify_Login" finished-at="2026-05-29T12:27:28 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verify_Login()[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" started-at="2026-05-29T13:07:48 IST" name="verify_Login" finished-at="2026-05-29T13:07:48 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. null 
@@ -207,7 +207,7 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" started-at="2026-05-29T12:27:28 IST" name="tearDown" finished-at="2026-05-29T12:27:28 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@1339e7aa]" started-at="2026-05-29T13:07:48 IST" name="tearDown" finished-at="2026-05-29T13:07:48 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

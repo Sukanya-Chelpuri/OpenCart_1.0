@@ -510,3 +510,5 @@
 12:32:06.081 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:17)oggger - ***************** Starting TC002_LoginTest ***************
 12:32:08.233 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:41)oggger - ***************** Finished TC002_LoginTest ***************
 12:32:08.251 [main] INFO  testBase.BaseClass.tearDown(BaseClass.java:120)oggger - ************************ After class**********************
+13:07:47.767 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:44)oggger - ***************** inside before class **********************
+13:07:47.773 [main] INFO  testBase.BaseClass.setUp(BaseClass.java:54)oggger - ***************** inside remote driver **********************

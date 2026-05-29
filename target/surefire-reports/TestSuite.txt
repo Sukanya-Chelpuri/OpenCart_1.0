@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 5.700 s <<< FAILURE! -- in TestSuite
-testCases.TC002_LoginTest.setUp[Windows, chrome](0) -- Time elapsed: 2.260 s <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 5.619 s <<< FAILURE! -- in TestSuite
+testCases.TC002_LoginTest.setUp[Windows, chrome](0) -- Time elapsed: 3.058 s <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. null 
 Host info: host: 'SUKANYA', ip: '10.83.103.61'
