@@ -89,7 +89,8 @@ public class BaseClass {
 			default: logger.info("No matching browser"); return;
 			}
 
-			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capbilities);
+			driver = new RemoteWebDriver(new URL("http://localhost:8080"), capbilities);
+			
 		}
 
 
